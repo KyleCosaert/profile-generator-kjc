@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/KyleCosaert/profile-generator-kjc/issues"
   },
-  "homepage": "https://github.com/KyleCosaert/profile-generator-kjc#readme"
+  "homepage": "https://github.com/KyleCosaert/profile-generator-kjc#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
