@@ -1,0 +1,23 @@
+{
+  "name": "profile-generator-kjc",
+  "version": "1.0.0",
+  "description": "Profile Generator for Employers",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleCosaert/profile-generator-kjc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyleCosaert/profile-generator-kjc/issues"
+  },
+  "homepage": "https://github.com/KyleCosaert/profile-generator-kjc#readme"
+}
